@@ -24,11 +24,5 @@
   <img src="https://raw.githubusercontent.com/m-emre-yalcin/m-emre-yalcin/output/snake.svg"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand"  />
-</div>
-
 
 
